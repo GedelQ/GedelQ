@@ -4,9 +4,7 @@ Meu nome é Gedel, sou estudante de **Análise e Desenvolvimento de Sistemas** e
 
 Para me encontrar:
 
-![[Linkedin](www.linkedin.com/in/gedel/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-www.linkedin.com/in/gedel/
+<a href="https://www.linkedin.com/in/gedel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 Minhas habilidades :man_technologist:
 
